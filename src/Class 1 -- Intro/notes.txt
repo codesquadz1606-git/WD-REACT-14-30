@@ -1,0 +1,16 @@
+What is JSX?
+Javascript Extensible, where we can write HTML & JS together.
+
+Component.
+1. class Component : extend , render , state management wast not good.
+2. function Component : Everything is fast and growing.
+
+Component First letter must be Capital.
+
+SO now for export we have two methods:
+1. export default : Here , it can be only one component from the file.
+2. named export
+
+
+What is Virtual DOM?
+React Js works on Virtual DOM, Virtual DOM is a Copy of real DOM, and updates on that part which is nessecary, it is applicable by using two methods which are Reconcilation & Diffing Algorthim.

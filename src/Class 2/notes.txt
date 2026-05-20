@@ -1,0 +1,20 @@
+What is Synthantic Wrapper?
+It is a self made fragment tag which wraps all the content in it.
+
+What are the Pillars of React?
+3 Pillars:
+State : To manage the data of a component.
+Props : Data Transfering from one component to another component.
+Hooks : It is a feature by which we can handle heavy operations. Hooks are near around 12 types.
+
+In HTML we write JS in {};
+
+Now we will destructure. Array destructure :[] , object destructure: {}
+
+Array : map,
+
+State: What is State Management?
+Here we manage the entire data of the component using useState() hook.
+
+Ternary Operator : JS
+Conditional Rendering : React

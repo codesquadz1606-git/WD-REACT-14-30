@@ -1,6 +1,8 @@
 import First, { First1 } from "./Class 1 -- Intro/First";
 import Second from "./Class 2/Second";
 import Second1 from "./Class 2/Second1";
+import Third from "./Class 3/Third";
+import Third1 from "./Class 3/Third1";
 
 export default function App(){
   return(
@@ -13,7 +15,10 @@ export default function App(){
 
       {/* Second Class */}
       {/* <Second/> */}
-      <Second1/>
+      {/* <Second1/> */}
+
+      {/* <Third/> */}
+      <Third1/>
     </>
   )
 }

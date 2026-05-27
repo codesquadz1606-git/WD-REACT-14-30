@@ -1,0 +1,16 @@
+Hook 2: useEffect.
+
+What is useEffect?
+useEffect is used to handle all the side effects of the webpage.
+
+Main motive to use is API fetching .
+
+useEffect has three use case:
+Case 1 : without any dependency
+Case 2 : with empty array
+Case 3 : with dependency
+
+Syntax:
+useEffect(()=>{
+    
+},dependency)

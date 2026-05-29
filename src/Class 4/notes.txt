@@ -1,0 +1,24 @@
+react-router-dom : use to create the routes in our webpage.
+
+Step 1: npm i react-router-dom
+Step 2: createBrowserRouter([ routes ])
+    Routes are create in object
+    {
+        path:"",
+        element:
+    }
+Step 3: Providing the Routers : RouterProvider
+
+If user hits on any unregisterd path : "*"
+If you want the url : useLocation hook
+
+React works on Single Page Application.
+If tab is getting refreshed then it is not a single page Application.
+
+So to get this as SPA : <Link>
+
+Parameter Urls. : useParams()
+
+useNavigate() : Click karna pa redirection.
+
+If we want to display our child elements : <Outlet/>

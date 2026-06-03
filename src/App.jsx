@@ -1,9 +1,12 @@
 import First, { First1 } from "./Class 1 -- Intro/First";
+import New from "./Class 2/Components/New";
 import Second from "./Class 2/Second";
 import Second1 from "./Class 2/Second1";
 import Third from "./Class 3/Third";
 import Third1 from "./Class 3/Third1";
 import Fourth from "./Class 4/Fourth";
+import Fifth from "./Class 5/Fifth";
+import New1 from "./Class 5/New";
 
 export default function App(){
   return(
@@ -21,7 +24,10 @@ export default function App(){
       {/* <Third/> */}
       {/* <Third1/> */}
 
-      <Fourth/>
+      {/* <Fourth/> */}
+
+      {/* <Fifth/> */}
+      <New1/>
     </>
   )
 }

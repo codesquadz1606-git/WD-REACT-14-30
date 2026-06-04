@@ -7,6 +7,8 @@ import Third1 from "./Class 3/Third1";
 import Fourth from "./Class 4/Fourth";
 import Fifth from "./Class 5/Fifth";
 import New1 from "./Class 5/New";
+import Sixth from "./Class 6/Sixth";
+import Sixth1 from "./Class 6/Sixth1";
 
 export default function App(){
   return(
@@ -27,7 +29,10 @@ export default function App(){
       {/* <Fourth/> */}
 
       {/* <Fifth/> */}
-      <New1/>
+      {/* <New1/> */}
+
+      {/* <Sixth/> */}
+      <Sixth1/>
     </>
   )
 }

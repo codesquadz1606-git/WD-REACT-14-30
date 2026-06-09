@@ -1,0 +1,11 @@
+animation types:
+tween
+spring
+interia
+
+Gestures:
+1. whileInView
+2. whileHover
+3. whileTap
+4. whileFocus
+5. whileDrag

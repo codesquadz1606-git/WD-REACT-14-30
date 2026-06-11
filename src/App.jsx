@@ -12,6 +12,8 @@ import Sixth1 from "./Class 6/Sixth1";
 import Seventh from "./Class 7/Seventh";
 import Seventh1 from "./Class 7/Seventh1";
 import Eight from "./Class 8/Eight";
+import Ninth from "./Class 9/Ninth";
+import "./App.css"
 
 export default function App(){
   return(
@@ -40,7 +42,9 @@ export default function App(){
       {/* <Seventh/> */}
       {/* <Seventh1/> */}
 
-      <Eight/>
+      {/* <Eight/> */}
+
+      <Ninth/>
     </>
   )
 }

@@ -49,7 +49,6 @@ export default function Ninth() {
                     </div>
                 </div>
             </div>
-
             <div className="lg:w-[400px] lg:h-[100px] lg:bg-yellow-500 w-[600px] h-[300px] bg-red-500 m-auto "></div>
 
 

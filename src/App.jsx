@@ -14,6 +14,8 @@ import Seventh1 from "./Class 7/Seventh1";
 import Eight from "./Class 8/Eight";
 import Ninth from "./Class 9/Ninth";
 import "./App.css"
+import Tenth from "./Class 10/Tenth";
+import Tenth1 from "./Class 10/Tenth1";
 
 export default function App(){
   return(
@@ -44,7 +46,10 @@ export default function App(){
 
       {/* <Eight/> */}
 
-      <Ninth/>
+      {/* <Ninth/> */}
+
+      {/* <Tenth/> */}
+      <Tenth1/>
     </>
   )
 }

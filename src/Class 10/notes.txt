@@ -1,0 +1,28 @@
+useReducer : It is an alternative of useState hook.
+It handles the multiple state.
+
+state
+action
+dispatch
+
+syntax:
+const [state,dispatch]=useReducer(reducer,initalState);
+
+Button
+  |
+  |
+Dispatch (type , payload)
+  |
+  |
+reducer function
+  |
+  |
+Case match
+  |
+  |
+State update 
+
+What is useRef() hook?
+It can access the DOM elements.
+It store mutable value without any re-renders.
+

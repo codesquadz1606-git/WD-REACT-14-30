@@ -27,10 +27,10 @@ export default function Fifth(){
         dataFetch();
     },[current])
 
-    console.log(products)
+    // console.log(products)
 
     const no_of_pages=Math.ceil(total/PAGE_SIZE);
-    console.log(no_of_pages)
+    // console.log(no_of_pages)
 
     return(
         <>
